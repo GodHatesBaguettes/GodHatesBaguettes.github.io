@@ -152,7 +152,7 @@ html, body {
 .main a:hover {
 	outline: medium solid #FFF;
 	outline-offset: -10px;
-}	
+}
 
 .main .new {
 	font-size: 30px;
